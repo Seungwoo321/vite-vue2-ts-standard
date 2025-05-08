@@ -12,7 +12,7 @@
         >
       </a>
       <a
-        href="https://vuejs.org/"
+        href="https://v2.vuejs.org/"
         target="_blank"
       >
         <img
@@ -21,8 +21,18 @@
           alt="Vue logo"
         >
       </a>
+      <a
+        href="https://standardjs.com/"
+        target="_blank"
+      >
+        <img
+          src="./assets/standardjs.svg"
+          class="logo standardjs"
+          alt="Standard JS logo"
+        >
+      </a>
     </div>
-    <HelloWorld msg="Vite + Vue" />
+    <HelloWorld msg="Vite + Vue 2.7 + Standard JS" />
   </div>
 </template>
 <script lang="ts">

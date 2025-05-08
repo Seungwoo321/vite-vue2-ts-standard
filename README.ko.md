@@ -1,6 +1,6 @@
 # Vue 2 + TypeScript + Vite
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f4e57968-eb20-4de8-91c4-001474804566/deploy-status)](https://vite-react-ts-standard.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f4e57968-eb20-4de8-91c4-001474804566/deploy-status)](https://vite-vue2-ts-standard.netlify.app/)
 
 > [English](./README.md) | 한국어  
 

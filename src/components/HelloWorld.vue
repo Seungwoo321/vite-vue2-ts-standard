@@ -18,16 +18,16 @@
     <p>
       Check out
       <a
-        href="https://vuejs.org/guide/quick-start.html#local"
+        href="https://github.com/Seungwoo321/vite-vue2-ts-standard"
         target="_blank"
-      >create-vue</a>, the official Vue + Vite starter
+      >vite-vue2-ts-standard</a>, the official Vue 2.7 + Vite + Standard JS starter
     </p>
     <p>
       Learn more about IDE Support for Vue in the
       <a
-        href="https://vuejs.org/guide/scaling-up/tooling.html#ide-support"
+        href="https://v2.vuejs.org/v2/guide/typescript.html"
         target="_blank"
-      >Vue Docs Scaling up Guide</a>.
+      >Vue 2 TypeScript Guide</a>.
     </p>
     <p class="read-the-docs">
       Click on the Vite and Vue logos to learn more
