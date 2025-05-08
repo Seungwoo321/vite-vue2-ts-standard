@@ -11,12 +11,6 @@ export default defineConfig([
       ...tseslint.configs.recommended,
       ...standardJs.configs.recommended,
       ...pluginVue.configs['flat/strongly-recommended']
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname
-      }
-    }
+    ]
   }
 ])
